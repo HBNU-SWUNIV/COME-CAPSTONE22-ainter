@@ -6,9 +6,17 @@
    
    - CLIP
    
+    PaPago API
+    
+    https://developers.naver.com/docs/papago/README.md
+   
     MIT license
    
     https://github.com/openai/glide-text2im
+    
+    OpenAI
+    
+    https://openai.com/blog/clip/
    
  - 산학연계 캡스톤의 경우 기업의 기밀이 담긴 데이터는 제외할 것.
  <span style="color:red">
