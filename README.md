@@ -25,4 +25,3 @@
   
 예시1)![download](https://user-images.githubusercontent.com/76671904/205911865-2bddb292-680e-435e-9be5-471f4a1ccc77.png)
 예시2)![download-2](https://user-images.githubusercontent.com/76671904/205911949-68c48a0d-61cf-4468-8ac6-3d5bf1ec3c70.png)
-예시3)![KakaoTalk_20221026_165517310](https://user-images.githubusercontent.com/76671904/205912006-54ba1bd5-136f-4780-aa58-aa09c41d7bd1.jpg)
