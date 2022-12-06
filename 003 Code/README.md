@@ -2,19 +2,20 @@
 ## 주의사항
  - 다른 Open Source SW를 사용하는 경우 저작권을 명시해야 함
    - Papago API
+   
    - GLIDE model
    
    - CLIP
    
-    PaPago API
+    PaPago API (Naver)
     
     https://developers.naver.com/docs/papago/README.md
    
-    MIT license
+    GLIDE text to image (MIT license)
    
     https://github.com/openai/glide-text2im
     
-    OpenAI
+    CLIP (OpenAI)
     
     https://openai.com/blog/clip/
    
@@ -22,4 +23,3 @@
  <span style="color:red">
  - **기업 기밀 데이터가 Github에 공개되었을 시의 책임은 공개한 학생에게 있음**
  </span>
-.
