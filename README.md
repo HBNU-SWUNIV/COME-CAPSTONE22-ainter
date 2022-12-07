@@ -25,6 +25,10 @@
     - 이미지 생성을 위한 GAN 생성 모듈
     - Nerual Style Transfer 구현
     
+## Mentoring
+    - 2022.11.21 연구원의 멘토와 팀 멘토링 진행
+    - 연구 주제 특화에 대한 논의 및 활용 방안 등에 대한 자문을 듣는 시간을 가짐
+    
 ## Conclusion
   - ### 각자의 장비 성능에 구애될 필요없이 네트워크만 있다면 원활히 사용
   - ### 사전학습모델의 적용을 통한 간단한 구현
@@ -40,3 +44,7 @@
   ![KakaoTalk_20221206_213721010](https://user-images.githubusercontent.com/76671904/205915553-4f64c035-dc67-4933-8ccb-9ab332ad7940.jpg)
   ![KakaoTalk_20221206_213818801](https://user-images.githubusercontent.com/76671904/205915564-9915f2ea-1226-4aaa-ac96-1d89c8630a91.jpg)
 
+## Project Outcome
+  - 2022년도 캡스톤 작품전시회 참가
+  
+![작품전시회 포스터](https://user-images.githubusercontent.com/76671904/206162503-4096743b-eb8a-464b-800f-a8055b5fd45e.PNG)
